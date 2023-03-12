@@ -36,6 +36,9 @@ body{
   background-color: green;
   border-radius: 4px;
   padding: 0.5em 1em;
+  width: max-content;
+  margin: 0 auto;
+  margin-bottom: 2em;; 
 }
 .cats{
   display: flex;
